@@ -1,0 +1,50 @@
+.bg-red{
+    background-color:red;
+}
+
+.bg-yellow{
+    background-color:yellow;
+}
+
+.bg-beige{
+    background-color:beige;
+}
+
+.bg-grey{
+    background-color:grey;
+}
+
+.bg-purple{
+    background-color:purple;
+}
+
+.bg-green{
+    background-color:green;
+}
+
+.bg-orange{
+    background-color:orange;
+}
+
+p{
+    margin-bottom: 0 !important;
+}
+
+.box-img{
+    width: 5em;
+    height: 5em;
+    object-fit: cover;
+}
+
+.category-box{
+    width: 13em;
+    height: 13em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+a:hover{
+    text-decoration: none !important;
+}
